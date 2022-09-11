@@ -1,0 +1,51 @@
+{
+  "expo": {
+    "name": "FitGo",
+    "slug": "FitGo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/finalSplash.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/finalSplash.png",
+      "resizeMode": "contain",
+      "height":"750",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  },
+
+
+  "android": {
+    "keystore": {
+      "keystorePath": "android/keystores/release.keystore",
+      "keystorePassword": "paofohlooZ9e",
+      "keyAlias": "keyalias",
+      "keyPassword": "aew1Geuthoev"
+    }
+  },
+  "ios": {
+    "provisioningProfilePath": "ios/certs/profile.mobileprovision",
+    "distributionCertificate": {
+      "path": "ios/certs/dist-cert.p12",
+      "password": "iex3shi9Lohl"
+    }
+  }
+}
