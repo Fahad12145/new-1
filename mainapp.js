@@ -1,26 +1,26 @@
 import React from "react";
 import { NavigationContainer} from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
-import Login from "./assets/srceens/login";
-import Homescrn from "./assets/srceens/homescreen";
-import integratedGyms from "./assets/srceens/IntegratedGyms"
-import Signup from "./assets/srceens/Signup";
-import Attendance from "./assets/srceens/Attendance";
-import Estore from "./assets/srceens/Estore";
-import Createportfolio from "./assets/srceens/createportfolio";
-import QRcodescanner from "./assets/srceens/attendance/QRcodescanner";
-import Wallet from "./assets/srceens/walllet/Wallet";
-import Deposit from "./assets/srceens/walllet/Deposit";
-import Withdraw from "./assets/srceens/walllet/Withdraw";
-import Maps from "./assets/srceens/Map/Maps";
-// import Splash from "./assets/srceens/Splash";
+import Login from "./srceens/login";
+import Homescrn from "./srceens/homescreen";
+import integratedGyms from "./srceens/IntegratedGyms"
+import Signup from "./srceens/Signup";
+import Attendance from "./srceens/Attendance";
+import Estore from "./srceens/Estore";
+import Createportfolio from "./srceens/createportfolio";
+import QRcodescanner from "./srceens/attendance/QRcodescanner";
+import Wallet from "./srceens/walllet/Wallet";
+import Deposit from "./srceens/walllet/Deposit";
+import Withdraw from "./srceens/walllet/Withdraw";
+import Maps from "./srceens/Map/Maps";
+// import Splash from "./srceens/Splash";
 // import{View} from "react-native";
-import Foodsuplements from "./assets/srceens/Estore/Fsuplements";
-import Gymaccessories from "./assets/srceens/Estore/Gymaccessories";
-import Clubpackages from "./assets/srceens/packages/Clubpackages";
-import Estorepackages from "./assets/srceens/packages/Estorepackages";
-import Profile from "./assets/srceens/Profile/Profile";
-import QRgen from "./assets/srceens/attendance/QRcode generator";
+import Foodsuplements from "./srceens/Estore/Fsuplements";
+import Gymaccessories from "./srceens/Estore/Gymaccessories";
+import Clubpackages from "./srceens/packages/Clubpackages";
+import Estorepackages from "./srceens/packages/Estorepackages";
+import Profile from "./srceens/Profile/Profile";
+import QRgen from "./srceens/attendance/QRcode generator";
 // import Tabs from "./assets/srceens/tabs";
 // import Location from "./assets/srceens/Location";
 const mainapp=()=>

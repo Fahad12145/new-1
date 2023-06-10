@@ -5,7 +5,7 @@ const foods = [
       price:"300" ,
       like: true,
       isAvailable:true,
-      img: require('../Newpngs/eggCheese.png'),
+      img: require('../../assets/Newpngs/eggCheese.png'),
       about: 
             "A healthy breakfast enrish of protien" 
       },
@@ -16,7 +16,7 @@ const foods = [
           price:" 550" ,
           like: true,
           isAvailable:true,
-          img: require('../Newpngs/looseBeef.png'),
+          img: require('../../assets/Newpngs/looseBeef.png'),
           about: 
             "Rich in protien and helps build muscle mass " 
       },
@@ -26,7 +26,7 @@ const foods = [
           price:" 950" ,
           like: true,
           isAvailable:true,
-          img: require("../Newpngs/LeanBeef.png"),
+          img: require("../../assets/Newpngs/LeanBeef.png"),
           about: 
             "Lean Muscle support Formula " 
       },
@@ -36,7 +36,7 @@ const foods = [
           price:" 999" ,
           like: true,
           isAvailable:true,
-          img: require('../Newpngs/powder.png'),
+          img: require('../../assets/Newpngs/powder.png'),
           about: 
             "Optimum Nutrition with food Punch " 
       },
@@ -46,7 +46,7 @@ const foods = [
           price:" 899" ,
           like: true,
           isAvailable:true,
-          img: require('../Newpngs/LeanBeef.png'),
+          img: require('../../assets/Newpngs/LeanBeef.png'),
           about: 
             " Post Workout Protien" 
       }

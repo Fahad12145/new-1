@@ -7,7 +7,7 @@ import Icon from "@expo/vector-icons/MaterialIcons";
 const Homescrn= ({navigation})=>{
   return(
     <View>
-      <ImageBackground style={{height:900,width:400}} source={require("../srceens/Newpngs/abstractblur.jpg")}>
+      <ImageBackground style={{height:900,width:400}} source={require("../assets/Newpngs/abstractblur.jpg")}>
     <View>
       <ScrollView>
       <View 

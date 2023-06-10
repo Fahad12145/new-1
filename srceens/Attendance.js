@@ -15,7 +15,7 @@ const pressFab=()=>{
   return(
     <View >
       <ImageBackground style={styles.bgimage}
-   source={require("../srceens/Newpngs/blurlogin.jpg")}>
+   source={require("../assets/Newpngs/blurlogin.jpg")}>
       <View>
       <TouchableOpacity 
        style={styles.gen}
